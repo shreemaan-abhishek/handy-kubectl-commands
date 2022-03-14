@@ -1,5 +1,7 @@
 # handy-kubectl-commands
 
+_although it's ironic that the very first command isn't a `kubectl` command, but you get the idea about why this repository exists._
+
 | Command | Description |
 | ------- | ----------- |
 | `minikube service <service-name>` | Starts a tunnel for the given service and opens it in default browser. |
